@@ -440,10 +440,11 @@ And finally, by embarking on this journey, you are now a "Security Researcher", 
     - `forge init`
 ## Fuzzing & Stateful Fuzzing (This might be new)
   - Fuzz tests
-  - Stateless Fuzzing
-  - Stateful fuzzing 
+  - Stateless Fuzzing - where the state of the previous test run is discarded for every new test run (foundry fuzzing)
+  - Stateful fuzzing - fuzzing where the final state of the previous run is the starting state for the next run (foundry invariant)
   - Invariants - property of the system that must hold
     - [Video](https://www.youtube.com/watch?v=juyY-CTolac)
+  - in foundry, fuzz tests = random data to one function, invariant tests = random data and random function calls to many functions
 ## Common EIPs/ERCs
   - Github Copilot
   - ERC20s
