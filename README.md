@@ -442,7 +442,7 @@ And finally, by embarking on this journey, you are now a "Security Researcher", 
   - Fuzz tests
   - Stateless Fuzzing
   - Stateful fuzzing 
-  - Invariants
+  - Invariants - property of the system that must hold
     - [Video](https://www.youtube.com/watch?v=juyY-CTolac)
 ## Common EIPs/ERCs
   - Github Copilot
