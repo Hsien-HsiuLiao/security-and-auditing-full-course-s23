@@ -448,7 +448,7 @@ And finally, by embarking on this journey, you are now a "Security Researcher", 
 ## Common EIPs/ERCs
   - Github Copilot
   - ERC20s
-    - [Video](https://www.youtube.com/watch?v=8rpir_ZSK1g)
+    - [Video](https://www.youtube.com/watch?v=8rpir_ZSK1g) - ERC 677, 777
   - NFTs (ERC721s)
     - [Video](https://www.youtube.com/watch?v=9yuHz6g_P50)
 ## Advanced Solidity 
