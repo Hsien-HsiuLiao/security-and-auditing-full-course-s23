@@ -421,7 +421,7 @@ And finally, by embarking on this journey, you are now a "Security Researcher", 
 # 🐸 Section 1: Review (Don't skip)
 ## Tooling & Environment Prerequistes
   - VSCode
-  - VSCodium
+  - VSCodium - https://www.reddit.com/r/archlinux/comments/12hm0p8/vscodium_or_code_oss/
   - [Foundry](https://book.getfoundry.sh/)
     - chisel
     - cast
@@ -452,7 +452,7 @@ And finally, by embarking on this journey, you are now a "Security Researcher", 
   - NFTs (ERC721s)
     - [Video](https://www.youtube.com/watch?v=9yuHz6g_P50)
 ## Advanced Solidity 
-  - storage 
+  - storage - https://docs.soliditylang.org/en/v0.8.26/internals/layout_in_storage.html
     - Clip from foundry course
   - Fallback & Receive
   - Encoding, Call, & Staticcall
